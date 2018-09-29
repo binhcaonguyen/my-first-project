@@ -1,0 +1,5 @@
+procedure main(); 
+            begin
+                while (a>b) do
+                    a := "pass";
+            end

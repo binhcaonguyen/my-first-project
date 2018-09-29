@@ -1,0 +1,8 @@
+procedure main(); 
+            begin
+                while a<>b do
+                    begin
+                        while -e do
+                            b := c := true;
+                    end
+            end

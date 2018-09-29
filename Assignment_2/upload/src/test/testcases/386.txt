@@ -1,0 +1,4 @@
+function foo(a: array [-1 .. -3] of string):real; 
+            var b: boolean;
+            begin
+            end

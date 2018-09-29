@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],VoidType(),[],[While(BinaryOp(<>,Id(id),BooleanLiteral(true)),[CallStmt(Id(putIntLn),[Id(i)]),If(BinaryOp(=,BinaryOp(mod,Id(a),Id(b)),IntLiteral(2)),[Continue],[]),AssignStmt(Id(a),BinaryOp(+,Id(a),IntLiteral(2)))])])])

@@ -1,0 +1,7 @@
+procedure main(); 
+            var arr: array [-1 .. -3] of string;
+            begin
+            end 
+            procedure foo(b: boolean); 
+            begin
+            end

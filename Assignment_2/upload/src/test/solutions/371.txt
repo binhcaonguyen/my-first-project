@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],VoidType(),[],[AssignStmt(Id(b),BooleanLiteral(true)),AssignStmt(Id(a),Id(b)),AssignStmt(Id(c),FloatLiteral(0.005))])])

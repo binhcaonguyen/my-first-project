@@ -1,0 +1,5 @@
+procedure main(); 
+            begin
+                while (-id) do 
+                    cOnTiNue;
+            end

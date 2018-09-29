@@ -1,0 +1,5 @@
+procedure main(); 
+            begin
+                while not(a) do b := true;
+                for id := 3 downto 1 do b:=3.6;
+            end

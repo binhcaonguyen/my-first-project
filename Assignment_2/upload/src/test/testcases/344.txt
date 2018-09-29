@@ -1,0 +1,9 @@
+procedure main(arg: string);
+            var arr: array [-1 .. -3] of real; 
+            begin
+                id1 := id2 := id3;
+                while not(a) do break;
+                for id := 3 downto 1 do continue;
+                with a:boolean; do a := true; 
+                return "binh";
+            end

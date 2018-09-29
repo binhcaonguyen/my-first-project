@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a),IntType()),VarDecl(Id(b),StringType()),VarDecl(Id(c),FloatType()),VarDecl(Id(d),FloatType())])

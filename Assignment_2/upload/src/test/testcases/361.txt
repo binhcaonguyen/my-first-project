@@ -1,0 +1,7 @@
+procedure main(); 
+            begin
+                for id := (3.6) downto (a mod b) do 
+                begin
+                    for id := 1 to 3 do a:=5;
+                end
+            end

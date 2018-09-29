@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a),ArrayType(IntLiteral(2),IntLiteral(10),IntType())),FuncDecl(Id(main),[],VoidType(),[VarDecl(Id(arr),ArrayType(IntLiteral(-1),IntLiteral(-3),StringType()))],[]),FuncDecl(Id(foo),[VarDecl(Id(b),BoolType())],IntType(),[VarDecl(Id(c),FloatType()),VarDecl(Id(d),FloatType())],[])])

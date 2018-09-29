@@ -1,0 +1,5 @@
+procedure main(); 
+            begin
+                id1 := id2 := id3;
+                for id := 3 downto 1 do b:=3.6;
+            end

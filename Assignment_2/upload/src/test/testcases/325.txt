@@ -1,0 +1,7 @@
+procedure main (); 
+        begin
+            if a>b then 
+                min := b;
+            else
+                min := a;
+        end

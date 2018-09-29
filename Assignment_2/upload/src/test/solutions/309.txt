@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],VoidType(),[],[For(Id(Counter),IntLiteral(5),IntLiteral(1),False,[CallStmt(Id(gotoxy),[IntLiteral(32),BinaryOp(-,IntLiteral(11),Id(Counter))]),CallStmt(Id(Writeln),[StringLiteral(I)])])])])

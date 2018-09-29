@@ -1,0 +1,10 @@
+procedure main (); 
+        begin
+            while (id <> true) do
+            begin
+                putIntLn(i);
+                if a mod b = 2 then
+                    continue;
+                a := a + 2;
+            end
+        end

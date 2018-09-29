@@ -1,0 +1,3 @@
+var a: integer;
+                    var b: string;
+                        c,d: real;

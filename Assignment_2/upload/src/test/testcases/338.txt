@@ -1,0 +1,4 @@
+procedure main(); 
+            begin
+                foo[0] := 1;
+            end

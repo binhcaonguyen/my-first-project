@@ -1,0 +1,5 @@
+procedure main(); 
+            begin
+                a := (5 + true) and then 3.6;
+                b := ("binh" or else false) - 4;
+            end

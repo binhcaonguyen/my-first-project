@@ -1,0 +1,10 @@
+procedure main (); 
+        begin
+            for id := -1 downto -3 do
+            begin
+                putIntLn(i);
+                if a mod b = 2 then
+                    break;
+                a := a + 2;
+            end
+        end

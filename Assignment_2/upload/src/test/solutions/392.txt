@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a),ArrayType(IntLiteral(-1),IntLiteral(6),FloatType())),VarDecl(Id(b),ArrayType(IntLiteral(1),IntLiteral(5),StringType()))])

@@ -1,0 +1,7 @@
+function foo1():integer; 
+            var arr: array [-1 .. -3] of string;
+            begin
+            end 
+            function foo2(b: boolean):real; 
+            begin
+            end

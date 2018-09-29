@@ -1,0 +1,5 @@
+procedure main(); 
+            begin
+                a := (5 * id) mod (true and 3.6);
+                b := ("binh" div 3) / 4;
+            end

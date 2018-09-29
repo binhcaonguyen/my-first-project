@@ -1,0 +1,4 @@
+procedure main(); 
+	            begin
+	                foo(5,foo(foo(5,a),b),a[3+a]);
+	            end

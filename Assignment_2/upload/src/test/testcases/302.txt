@@ -1,0 +1,5 @@
+procedure main(); 
+            begin
+                foo(s, "s");
+                putIntLn(4);
+            end

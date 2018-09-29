@@ -1,0 +1,4 @@
+procedure main(); 
+            begin
+                for id := (3.6) downto (a mod b) do c := d:= "binh";
+            end

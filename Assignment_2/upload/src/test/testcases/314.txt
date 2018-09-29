@@ -1,0 +1,2 @@
+var i: array [1 .. 5]// of integer;
+                        of boolean;

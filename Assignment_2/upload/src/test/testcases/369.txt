@@ -1,0 +1,7 @@
+procedure main(); 
+            begin
+                while a=b do
+                    a := "pass";
+                while not(e) do
+                    b := c := 3.14;
+            end

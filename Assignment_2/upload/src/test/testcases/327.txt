@@ -1,0 +1,9 @@
+procedure main(); 
+            begin
+                with a:integer; do
+                begin
+                    a := 5;
+                    b := 6;
+                end
+                c := 7;
+            end

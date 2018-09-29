@@ -1,0 +1,18 @@
+procedure main (); 
+        begin
+            if a>b then 
+            begin
+                if b>c then
+                begin 
+                    min:=c; 
+                end    
+                else min:=b;
+            end
+            else
+            begin
+                if a>c then min:=c; else 
+                begin 
+                    min:=a;
+                end
+            end
+        end

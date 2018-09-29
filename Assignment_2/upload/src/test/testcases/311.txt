@@ -1,0 +1,6 @@
+procedure main(); 
+	        begin
+	            for a := 1 to 3 do 
+                    with a:integer; do
+                        if (a>b) then a := 3*b;
+	        end

@@ -1,0 +1,5 @@
+procedure main(); 
+            begin
+            a := b := true;
+            c := 5E-3;
+            end

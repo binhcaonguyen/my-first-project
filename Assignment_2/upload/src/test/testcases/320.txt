@@ -1,0 +1,9 @@
+procedure main (); 
+        begin
+            if a>b then 
+                if b>c then
+                    if c>a then 
+                        a := c;
+                    else
+                        c := a;
+        end

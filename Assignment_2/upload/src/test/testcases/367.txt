@@ -1,0 +1,6 @@
+procedure main(); 
+            begin
+                b := c := arr;
+                while a<=3 do
+                    e := f := 4;
+            end

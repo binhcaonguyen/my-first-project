@@ -1,0 +1,5 @@
+procedure main(); 
+            begin
+                with a:integer; arr: array [-3 .. 9] of real; do
+                    a := b := "binh";
+            end

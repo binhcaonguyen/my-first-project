@@ -1,0 +1,4 @@
+function foo():INTEGER; 
+            begin 
+                foo(a[a[5]]-5);
+            end

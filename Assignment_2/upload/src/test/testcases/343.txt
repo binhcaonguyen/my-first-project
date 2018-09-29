@@ -1,0 +1,6 @@
+procedure main(); 
+            begin
+                while (a<>b) do 
+                    with a:integer; do
+                        for id := -1 downto 3 do return;
+            end

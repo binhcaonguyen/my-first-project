@@ -1,0 +1,4 @@
+procedure main(); 
+            begin
+                foo[a or else b] := goo[1];
+            end

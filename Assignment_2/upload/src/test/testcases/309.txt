@@ -1,0 +1,8 @@
+procedure main(); 
+	        begin
+	            For Counter := 5 Downto 1 do
+	            Begin  {an example of "downto" instead of "to", note the "gotoxy(_,_)"}
+		            gotoxy(32, 11 - Counter);
+		            Writeln("I");
+	            End
+	        end
